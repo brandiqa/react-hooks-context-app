@@ -1,7 +1,17 @@
 {
   "name": "react-hooks-context-app",
+  "description": "An example project demonstrating how to manage global state using React Hooks and the Context API",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "author": {
+    "email": "micwanyoike@gmail.com",
+    "name": "Michael Wanyoike"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandiqa/react-hooks-context-app.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
